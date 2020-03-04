@@ -1,4 +1,3 @@
-"Good evening"
 echo "Enter first file "
 read f1
 echo "Enter second file "
